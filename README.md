@@ -1,6 +1,6 @@
 # http-redirect-rs
 
-![Proof of concept showing fake url that resembles url format uname:passwd@domain](https://media.discordapp.net/attachments/661290098876219396/1110595502828945448/giffforfhoer.gif)
+![Proof of concept showing fake url that resembles url format uname:passwd@domain](./.assets/concept-demo.gif)
 
 Proof of concept for redirecting uris using the `username:password@domain` schema to the real page after downloading a payload.
 
